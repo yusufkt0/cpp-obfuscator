@@ -1,2 +1,6 @@
 # cpp-obfuscator
-only changes variable names and removes comments for now
+# Usage:
+```
+g++ -Wall main.cpp -o output
+./output <Input_File> <Output_File>
+```
